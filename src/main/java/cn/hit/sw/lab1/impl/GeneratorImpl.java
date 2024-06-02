@@ -212,6 +212,7 @@ public class GeneratorImpl implements Generator {
             return;
         }
 
+
         // 创建按钮
         JButton nextButton = new JButton("继续游走");
         JButton exitButton = new JButton("停止");

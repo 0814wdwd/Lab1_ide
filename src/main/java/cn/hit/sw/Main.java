@@ -19,6 +19,7 @@ public class Main {
                 new SimpleGUI();
             }
         });
+
         System.out.println("Hello World");
 
     }
