@@ -41,6 +41,7 @@ public class bk {
         Viewer viewer = graph.display();
         Layout layout = Layouts.newLayoutAlgorithm();
         viewer.enableAutoLayout(layout);
+        System.out.println("Hello, World!");
         return "node {" +
                 "   fill-color: black;" +
                 "   size: 20px;" +
